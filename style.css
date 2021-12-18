@@ -20,20 +20,28 @@ p {
 .heading_main {
   border-bottom: 1px solid #FFFFC7;
 }
+
 h1 {
   font-size: 2em;
   color: #203646;
-  padding: 20px 0 0;
-  margin-left: 100px;
+  padding: 20px;
+  margin-left: 300px;
+}
+.heading_sub {
+  border-bottom: 1px solid #FFFFC7;
 }
 
 h3 {
-  border-bottom: 1px solid #FFFFC7;
-  padding: 20px 0 0;
+  padding: 20px;
   color: #203646;
+  margin-left: 300px;
 }
 
 h5 {
   font-size: 1em;
   color: #203646;
+}
+
+.section1 {
+  margin-left: 300px;
 }
