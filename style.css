@@ -18,7 +18,7 @@ p {
   margin-bottom: 20px;
 }
 .heading_main {
-  margin-left: 100px 0 0
+  float: right;
 }
 h1 {
   font-size: 2em;
