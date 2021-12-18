@@ -19,11 +19,11 @@ p {
 }
 .heading_main {
   margin-left: 100px;
+  border-bottom: 1px solid #FFFFC7;
 }
 h1 {
   font-size: 2em;
   color: #203646;
-  border-bottom: 1px solid #FFFFC7;
   padding: 20px 0 0;
 }
 
