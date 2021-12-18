@@ -17,12 +17,14 @@ p {
   line-height: 1.4em;
   margin-bottom: 20px;
 }
-
+.heading_main {
+  margin-left: 100px 0 0
+}
 h1 {
   font-size: 2em;
   color: #203646;
   border-bottom: 1px solid #FFFFC7;
-  padding: 50px 0 0;
+  padding: 20px 0 0;
 }
 
 h3 {
