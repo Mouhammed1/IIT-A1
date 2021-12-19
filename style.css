@@ -76,3 +76,7 @@ a:link {
   background-color: transparent;
   text-decoration: none;
 }
+
+.footer1 li {
+  display: inline;
+}
