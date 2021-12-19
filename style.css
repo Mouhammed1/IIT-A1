@@ -34,7 +34,7 @@ h1 {
 
 h3 {
   color: #203646;
-  margin-left: 50px;
+  margin-left: 25px;
   margin-bottom: -20px;
   padding: 20px;
 }
@@ -53,15 +53,15 @@ h5 {
 .clear {clear: both;}
 
 .image1 {
-  margin: 25px auto;
+  margin-left: 50px;
 }
 
 .image2 {
-  margin: 25px auto;
+  margin: 50px;
 }
 
 .image3 {
-  margin: 25px auto;
+  margin: 50px;
 }
 
 .last_paragraph {
