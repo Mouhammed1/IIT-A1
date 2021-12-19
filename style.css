@@ -26,6 +26,7 @@ h1 {
   color: #203646;
   padding: 20px;
   margin-left: 300px;
+  margin-bottom: -20px;
 }
 .heading_sub {
   border-bottom: 1px solid #FFFFC7;
