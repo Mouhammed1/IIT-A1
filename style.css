@@ -3,6 +3,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   color: #203646;
+  margin-bottom: 25px;
 }
 
 #mainArea {
@@ -45,13 +46,6 @@ h5 {
 }
 
 .section1 {
-  margin-left: 25px;
-  margin-right: 25px;
-  margin-top: 25px;
-  margin-bottom: 25px;
-}
-
-.section2 {
   margin-left: 25px;
   margin-right: 25px;
   margin-top: 25px;
