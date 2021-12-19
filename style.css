@@ -18,12 +18,12 @@ p {
   margin-bottom: 20px;
 }
 .heading_main {
-  border-bottom: 1px solid #BF00FF;
+  border-bottom: 1px solid #FF6700;
 }
 
 h1 {
   font-size: 2em;
-  color: #FF9571;
+  color: #7851A9;
   padding: 20px;
   margin-left: 300px;
   margin-bottom: -20px;
@@ -32,12 +32,8 @@ h1 {
   border-bottom: 1px solid #FF6700;
 }
 
-.heading_sub2 {
-  border-bottom: 1px solid #BF00FF;
-}
-
 h3 {
-  color: #FF9571;
+  color: #7851A9;
   margin-left: 10px;
   margin-bottom: -20px;
   padding: 20px;
