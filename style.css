@@ -35,7 +35,7 @@ h1 {
 h3 {
   color: #203646;
   margin-left: 50px;
-  margin-bottom: -25px;
+  margin-bottom: -20px;
   padding: 20px;
 }
 
@@ -51,3 +51,19 @@ h5 {
 }
 
 .clear {clear: both;}
+
+.image1 {
+  margin: 25px auto;
+}
+
+.image2 {
+  margin: 25px auto;
+}
+
+.image3 {
+  margin: 25px auto;
+}
+
+.last_paragraph {
+  margin-bottom: 25px;
+}
