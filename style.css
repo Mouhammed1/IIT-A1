@@ -1,14 +1,14 @@
 body {
-  background: #203646;
+  background: #black;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
-  color: #203646;
+  color: #8C93A8;
 }
 
 #mainArea {
   width: 90%;
   max-width: 800px;
-  background: #8C93A8;
+  background: #203646;
   margin: 30px auto;
 }
 
@@ -23,7 +23,7 @@ p {
 
 h1 {
   font-size: 2em;
-  color: #9CFC97;
+  color: #FF9571;
   padding: 20px;
   margin-left: 300px;
   margin-bottom: -20px;
@@ -33,7 +33,7 @@ h1 {
 }
 
 h3 {
-  color: #9CFC97;
+  color: #FF9571;
   margin-left: 10px;
   margin-bottom: -20px;
   padding: 20px;
