@@ -3,7 +3,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   color: #203646;
-  margin-bottom: 25px;
 }
 
 #mainArea {
@@ -24,7 +23,7 @@ p {
 
 h1 {
   font-size: 2em;
-  color: #203646;
+  color: #9CFC97;
   padding: 20px;
   margin-left: 300px;
   margin-bottom: -20px;
