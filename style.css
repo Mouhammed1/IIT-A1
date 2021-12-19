@@ -35,7 +35,7 @@ h1 {
 h3 {
   color: #203646;
   margin-left: 50px;
-  margin-bottom: 25px;
+  margin-bottom: -25px;
 }
 
 h5 {
