@@ -70,3 +70,9 @@ h5 {
   width: 70%;
   max-width: 800px;
 }
+
+a:link {
+  color: #D7FFAB;
+  background-color: transparent;
+  text-decoration: none;
+}
