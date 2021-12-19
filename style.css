@@ -18,7 +18,7 @@ p {
   margin-bottom: 20px;
 }
 .heading_main {
-  border-bottom: 1px solid #FFFFC7;
+  border-bottom: 1px solid #3BF4FB;
 }
 
 h1 {
@@ -28,8 +28,12 @@ h1 {
   margin-left: 300px;
   margin-bottom: -20px;
 }
-.heading_sub {
-  border-bottom: 1px solid #FFFFC7;
+.heading_sub1 {
+  border-bottom: 1px solid #1CFEBA;
+}
+
+.heading_sub2 {
+  border-bottom: 1px solid #3BF4FB;
 }
 
 h3 {
